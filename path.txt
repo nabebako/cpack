@@ -1,0 +1,23 @@
+.
+├──	.cpack
+│	├──	cache
+│	│	└──	diff.pack
+│	├── bin
+│	│	├──	entry.o
+│	│	└──	*.o
+│	├──	include
+│	│	├──	*.h
+│	│	└──	*.hpp
+│	├──	assets
+│	├──	vendor
+│	└──	lib
+├──	dist
+│	├── app.exe
+│	├──	LICENSE.md
+│	└──	README.md
+├──	src (user-made)
+│	├── *.c
+│	├──	*.h
+│	├──	*.cpp
+│	└──	*.hpp
+└── cpack.config.json
